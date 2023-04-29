@@ -93,7 +93,7 @@ body{
 .background {
     width: 100%px;
     height: 100vh;
-    background: url('images/background.jpg') no-repeat;
+    background: url('background.jpg') no-repeat;
     background-size:cover;
     background-position: center;
     filter: blur(10px);
@@ -107,7 +107,7 @@ body{
     transform: translate(-50%,-50%);
     width: 75%;
     height: 550px;
-    background: url('images/img4.avif') no-repeat;
+    background: url('img4.avif') no-repeat;
     background-size: cover;
     background-position: center;
     border-radius: 10px;
